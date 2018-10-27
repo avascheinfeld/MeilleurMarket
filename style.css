@@ -1,0 +1,78 @@
+body { 
+	font-family: Lato, sans-serif;
+	margin: 0px;
+	background-color:#EEF4ED;
+	color: rgb(30,30,30);
+}
+
+.card-white { background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11);
+    padding: 16px;
+    margin: 16px 0px
+
+	}
+
+	.card-white h2 { 
+		color:#388D99;
+
+	 }
+
+	 .card-white p { 
+		color: rgb(30,30,30);
+    	font-size: 18px;
+    	font-family: Lato, sans-serif;
+   		margin: 0px;
+    	font-weight: lighter; 
+    }
+
+.green-btn {
+	color: white;
+    background: #388D99;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11);
+    border-radius: 4px;
+    padding: 15px 20px;
+    margin-right: 50px;
+			}
+
+.banniere { 
+	text-align: center;
+  	color: white;
+	padding: 150px 0px;
+  	background-image:linear-gradient(-20deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.1) 10%), url("Images/facture.jpg");
+	height: 460px;
+  	background-size: cover;
+	background-position: center;
+
+		}
+
+#le-total{
+	background-color: #A4CBD0;
+	padding: 70px 16px 70px 16px ;
+
+		}
+
+.footer{ 
+	background-color: #A4CBD0;
+    padding: 24px;
+    color: white;}
+
+    .footer a{
+    	color: black
+    	}
+ 
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
+
+
+
+
+
