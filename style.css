@@ -40,7 +40,7 @@ body {
 	text-align: center;
   	color: white;
 	padding: 150px 0px;
-  	background-image:linear-gradient(-20deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.1) 10%), url("Images/facture.jpg");
+  	background-image:linear-gradient(-20deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.1) 10%), url("images/facture.jpg");
 	height: 460px;
   	background-size: cover;
 	background-position: center;
